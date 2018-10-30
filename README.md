@@ -1,6 +1,5 @@
 # Learning
 Repository to learn GitHub
 
-Here the text entered by Joe in his own branch
+This line removed by EP
 Hi these are the edits Mary made in her branch
-
